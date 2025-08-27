@@ -1,9 +1,9 @@
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
-tensorflow==2.17.0
-yfinance==0.2.40
-imbalanced-learn==0.12.3
+numpy
+pandas
+scikit-learn
+tensorflow
+yfinance
+imbalanced-learn
 beautifulsoup4
 jupyter
 matplotlib
